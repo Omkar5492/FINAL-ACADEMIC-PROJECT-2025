@@ -1,4 +1,4 @@
-Paper link: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10555281
+
 
 Dataset link: https://www.kaggle.com/code/trungnguyen0987/battery-soh-estimation/input?select=bat_charge%284%29.csv
 
